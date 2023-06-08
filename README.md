@@ -1,2 +1,3 @@
-# Pronote_widget
-Widget pronote (menu and works)
+# Pronote Widget
+
+Have your homework and canteen menus right on your desk.
